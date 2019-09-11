@@ -1,0 +1,79 @@
+name: MaskPlugin
+main: Main.Main
+version: 1.6.8
+author: Frederic | DieMaskeLP#9153
+website: https://mask-apps.firebaseapp.com
+prefix: MaskPlugin
+
+
+commands:
+  gm:
+    description: Setze den Spielmodus von Spielern
+  setspawn:
+    description: Setze den Worldspawn
+  l:
+    description: TP to Lobby
+  setlobby:
+    description: Set lobby
+  fly:
+    description: Change fly
+  feed:
+    description: Feeds
+  heal:
+    description: Commands.Heal
+  pay:
+    description: Pay
+  money:
+    description: Money
+  home:
+    description: Homing
+  gamemode:
+    description: Change Gamemode
+  lobby:
+    description: TP to Lobby
+  plugin:
+    description: Plugman
+  reload:
+    description: Reload the Server
+  god:
+    description: Godmode
+  godmode:
+    description: Godmode
+  spawn:
+    description: Spawn to other Wordls
+  spawns:
+    description: List all Spawns
+  getperms:
+    description: get all perms using this plugin
+  day:
+    description: Day
+  night:
+    description: Night
+  noon:
+    description: Noon
+  sun:
+    description: Sun
+  thunder:
+    description: Thunder
+  storm:
+    description: Storm
+  cmdspy:
+    description: CMD SPYS
+  setpluginprefix:
+    description: sets the plugin prefix
+  addadmin:
+    description: Adds a admin
+  removeadmin:
+    description: Removes a admin.
+  v:
+    description: Vanishing.
+  vanish:
+    description: vanishing.
+  isop:
+    description: Check OP
+  isadmin:
+    description: check Admin
+  msg:
+    description: Writes to other user
+  r:
+    description: Writes to the last user
